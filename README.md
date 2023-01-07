@@ -1,5 +1,6 @@
-# React Shop Portfolio Project
+# React Shop
+Приложение на React с возможностью приобрести комплекты для игры(добавление товара в корзину/удаление из корзины).
 
-[Demo](https://nastya-88.github.io/react-shop/).
+Посмотреть результат - https://nastya-88.github.io/react-shop/
 
 
